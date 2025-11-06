@@ -4,3 +4,5 @@
 
  - #### Created the local repo and added Readme.md fie to the repo using command
     - `git init`
+ - #### Add all unstracked changes
+    - `git add .`
