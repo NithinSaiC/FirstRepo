@@ -6,3 +6,5 @@
     - `git init`
  - #### Add all unstracked changes
     - `git add .`
+ - #### Commit to save all the changes locally
+    - `git commiy -m "Commit Message"`
